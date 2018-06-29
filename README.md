@@ -1,7 +1,7 @@
 # ieee-dl-bootcamp
+Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
 
 ## Schedule
-
 <table>
   <tr>
     <th>Timings</th>
