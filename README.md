@@ -41,8 +41,8 @@
       <ul>
         <li>Install <a href="https://www.anaconda.com/download/">Python 3</a>, <a href="https://keras.io/#installation">Keras</a>, <a href="https://mxnet.incubator.apache.org/install/">MXnet</a></li>
         <li>Open Python interepreter</li>
-        <li>Run `from keras.datasets import mnist`</li>
-        <li>Run `(x_train, y_train), (x_test, y_test) = mnist.load_data()`</li>
+        <li>Run <code>from keras.datasets import mnist</code></li>
+        <li>Run <code>(x_train, y_train), (x_test, y_test) = mnist.load_data()</code></li>
       </ul>
     </td>
   </tr>
