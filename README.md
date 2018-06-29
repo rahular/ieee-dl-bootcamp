@@ -29,9 +29,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   </tr>
   <tr>
     <td>11:00 to 11:15</td>
-    <td>Networking Tea Break</td>
-    <td></td>
-    <td></td>
+    <td colspan="3"><b>Networking Tea Break</b></td>
   </tr>
   <tr>
     <td>11:15 to 12:30</td>
@@ -49,9 +47,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   </tr>
   <tr>
     <td>12:30 to 13:30</td>
-    <td>Lunch</td>
-    <td></td>
-    <td></td>
+    <td colspan="3"><b>Lunch</b></td>
   </tr>
   <tr>
     <td>13:30 to 15:30</td>
@@ -61,9 +57,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   </tr>
   <tr>
     <td>15:30 to 16:00</td>
-    <td>Networking Tea Break</td>
-    <td></td>
-    <td></td>
+    <td colspan="3"><b>Networking Tea Break</b></td>
   </tr>
   <tr>
     <td>16:00 to 17:00</td>
