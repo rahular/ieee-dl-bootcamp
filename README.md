@@ -43,6 +43,7 @@
         <li>Open Python interepreter</li>
         <li>Run <code>from keras.datasets import mnist</code></li>
         <li>Run <code>(x_train, y_train), (x_test, y_test) = mnist.load_data()</code></li>
+        <li>This will download the data needed for the session onto your computer</li>
       </ul>
     </td>
   </tr>
