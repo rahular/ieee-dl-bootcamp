@@ -4,8 +4,8 @@
 
 | Timings        | Title                                                     | Description | Pre-requisites |
 |----------------|-----------------------------------------------------------|-------------|----------------|
-| 9:00 to 9:30   | Registration                                              |             |                |
-| 9:30 to 10:15  | Introduction to Deep Learning - Demystifying DL - Part 1  |             |                |
+| 09:00 to 09:30 | Registration                                              |             |                |
+| 09:30 to 10:15 | Introduction to Deep Learning - Demystifying DL - Part 1  |             |                |
 | 10:15 to 11:00 | Introduction to Deep Learning - Demystifying DL - Part 2  |             |                |
 | 11:00 to 11:15 | Networking Tea Break                                      |             |                |
 | 11:15 to 12:30 | Hands-on session: Building a classifier from scratch      |             |                |
