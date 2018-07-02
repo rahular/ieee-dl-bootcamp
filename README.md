@@ -24,7 +24,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   <tr>
     <td>10:15 to 11:00</td>
     <td>Introduction to Deep Learning - Demystifying DL - Part 2</td>
-    <td></td>
+    <td>Convolutional Neural Networks, Recurrent Neural Networks, Sequence-to-Sequence models, Generative Models</td>
     <td></td>
   </tr>
   <tr>
