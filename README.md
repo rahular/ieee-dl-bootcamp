@@ -52,8 +52,8 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   <tr>
     <td>13:30 to 15:30</td>
     <td>Hands-on session: Designing deep learning models visually</td>
-    <td></td>
-    <td></td>
+    <td>Using Neural Network Modeller (NNM) available in [Watson Studio](https://www.ibm.com/cloud/watson-studio)</td>
+    <td>[Create](instructions.md) Watson Studio accounts</td>
   </tr>
   <tr>
     <td>15:30 to 16:00</td>
