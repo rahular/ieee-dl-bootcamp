@@ -18,7 +18,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   <tr>
     <td>09:30 to 10:15</td>
     <td>Introduction to Deep Learning - Demystifying DL - Part 1</td>
-    <td>Introduction to ML, feature extraction, neural networks, backpropogation and autoencoders. (<a href="https://www.slideshare.net/rahular1/deep-learning-basics-part-1" target="_blank">Slides</a>)</td>
+    <td>Introduction to ML, feature extraction, neural networks, backpropogation and autoencoders. (<a href="slides/session-1.pptx" target="_blank">Slides</a>)</td>
     <td></td>
   </tr>
   <tr>
