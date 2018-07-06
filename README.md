@@ -72,3 +72,6 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
     <td></td>
   </tr>
 </table>
+
+
+Survey for GAN: https://goo.gl/mvGYHy
