@@ -62,7 +62,7 @@ Resources for the Deep Learning Bootcamp organized by IEEE Bangalore Section
   <tr>
     <td>16:00 to 17:00</td>
     <td>Latest trends and future directions</td>
-    <td></td>
+    <td>Brief discussion over current and future trends in deep learning and AI such as architecture search, testing and debugging AI models, model debiasing, and transfer learning (<a href="slides/session-6.pptx" target="_blank">Slides</a>)</td>
     <td></td>
   </tr>
   <tr>
